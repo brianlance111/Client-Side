@@ -1,0 +1,24 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(517,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (The Card Game - Server Side.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Client.cpp
+E:\The Card Game - Client Side\The Card Game - Server Side\Client.cpp(43,9): warning C4101: 'response': unreferenced local variable
+E:\The Card Game - Client Side\The Card Game - Server Side\Client.cpp(192,48): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+E:\The Card Game - Client Side\The Card Game - Server Side\Client.cpp(195,44): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+E:\The Card Game - Client Side\The Card Game - Server Side\Client.cpp(202,23): warning C4353: nonstandard extension used: constant 0 as function expression.  Use '__noop' function intrinsic instead
+E:\The Card Game - Client Side\The Card Game - Server Side\Client.cpp(210,40): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\The Card Game - Client Side\The Card Game - Server Side\Client.cpp(223,44): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\The Card Game - Client Side\The Card Game - Server Side\Client.cpp(225,37): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Entity.cpp
+E:\The Card Game - Client Side\The Card Game - Server Side\Entity.cpp(4,32): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+E:\The Card Game - Client Side\The Card Game - Server Side\Entity.cpp(10,25): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+E:\The Card Game - Client Side\The Card Game - Server Side\Entity.cpp(11,25): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+E:\The Card Game - Client Side\The Card Game - Server Side\Entity.cpp(15,24): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+E:\The Card Game - Client Side\The Card Game - Server Side\Entity.cpp(16,24): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+E:\The Card Game - Client Side\The Card Game - Server Side\Entity.cpp(35,19): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+E:\The Card Game - Client Side\The Card Game - Server Side\Entity.cpp(36,19): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+E:\The Card Game - Client Side\The Card Game - Server Side\Entity.cpp(41,35): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+E:\The Card Game - Client Side\The Card Game - Server Side\Entity.cpp(42,35): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  RenderWindow.cpp
+E:\The Card Game - Client Side\The Card Game - Server Side\RenderWindow.cpp(44,43): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+E:\The Card Game - Client Side\The Card Game - Server Side\RenderWindow.cpp(45,43): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  Generating Code...
+  The Card Game - Server Side.vcxproj -> E:\The Card Game - Client Side\Debug\The Card Game - Client Side.exe
